@@ -1,0 +1,334 @@
+    {
+      "heading": "G9_Surface area of Cylinders",
+  "topics": [
+    {
+      "heading": "Surface area of Cylinders",
+      "questions": [
+  
+  {
+    "questionNo": 1,
+    "question": [
+      "A cylinder has a circumference of 60 cm and a height of 30 cm. If you were to draw a two-dimensional net of this cylinder, it would consist of two circles and one rectangle. What would be the exact dimensions of this central rectangle?"
+    ],
+    "options": [
+      "60 cm by 60 cm",
+      "60 cm by 30 cm",
+      "30 cm by 30 cm",
+      "45 cm by 30 cm"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "A student draws the net of a cylinder. The rectangular portion of the net has a length of 94.20 mm and a width of 25 mm. If the width represents the height of the cylinder, the circumference of the circular ends must be exactly ______ mm."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "94.20"
+    ]
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "The curved surface of a cylinder with a radius of 10 cm and a height of 40 cm is cut straight down the side and flattened out into a rectangle. Using 3.14 as an approximation for π, calculate the length and width of this resulting rectangle."
+    ],
+    "options": [
+      "Length = 62.8 cm, Width = 40 cm",
+      "Length = 31.4 cm, Width = 40 cm",
+      "Length = 314 cm, Width = 40 cm",
+      "Length = 20 cm, Width = 40 cm"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A large cylindrical support column has a diameter of 12 m and a height of 15 m. If the curved surface of this column is \"unrolled\" into a flat rectangle, the exact length of the rectangle (in terms of π) will be ______ π m."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "12"
+    ]
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Find the curved surface area ONLY of the cylindrical tube shown below. Leave your answer in exact form (in terms of π).",
+      "<br>(The radius is 6 m and the height is 12 m)."
+    ],
+    "options": [
+      "144π m²",
+      "72π m²",
+      "120π m²",
+      "288π m²"
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A canning factory needs to print paper wrappers that will completely cover the curved sides of their large baked bean tins. Each tin has a diameter of 14 cm and a height of 15 cm. Using the fraction ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π, calculate the area of paper needed for one wrapper.",
+      "<br>The area of one wrapper is ______ cm²."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "660"
+    ]
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "Calculate the total surface area of a solid wooden log that has a radius of 8 cm and a length of 20 cm. Use 3.14 as an approximation for π."
+    ],
+    "options": [
+      "1406.72 cm²",
+      "1004.80 cm²",
+      "1205.76 cm²",
+      "1500.50 cm²"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A sealed cylindrical chemical drum has a diameter of 28 m and a height of 5 m. Using the fraction ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π, calculate the total exterior surface area of the drum.",
+      "<br>The total surface area is ______ m²."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "1672"
+    ]
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Find the exact total surface area of a solid cylindrical brass weight with a radius of 7 mm and a length of 10 mm. Leave your answer in exact form (in terms of π)."
+    ],
+    "options": [
+      "238π mm²",
+      "140π mm²",
+      "196π mm²",
+      "250π mm²"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "The curved surface area of a cylinder is 2640 cm². If the height of the cylinder is 30 cm, what is the length of its radius? Use the fraction ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π."
+    ],
+    "options": [
+      "7 cm",
+      "14 cm",
+      "21 cm",
+      "28 cm"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "A solid cylinder has a total surface area of 90π m² and a radius of 5 m. By setting up an algebraic equation, find the height of this cylinder.",
+      "<br>The height of the cylinder is ______ m."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "4"
+    ]
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "Calculate the exact total surface area of the solid half-cylinder shown below. Leave your final answer in terms of exact π.",
+      "<br>(The object stands vertically. The flat rectangular back has a width of 12 cm, which is the diameter of the circular ends. The height is 20 cm)."
+    ],
+    "options": [
+      "120π + 240 cm²",
+      "36π + 240 cm²",
+      "156π + 240 cm²",
+      "192π + 240 cm²"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "A zoologist builds a horizontal half-cylinder as a water bath for hippos. The trough has a radius of 4 metres and a length of 10 metres. Calculate the total exterior surface area of the bath, including the two semi-circular ends. Use 3.14 for π.<br><img src = './assests/images/question/4.png' width = '30%' >",
+      "<br>(Hint: Since it is an open water bath, do not include a flat top rectangular lid!).",
+      "<br>The total exterior surface area is ______ m²."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "175.84"
+    ]
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "A plastic cylindrical storage bin is completely open at the top. The radius of the base is 5 cm and the height of the bin is 12 cm. Find the total exterior surface area of the bin using 3.14 for π."
+    ],
+    "options": [
+      "455.30 cm²",
+      "376.80 cm²",
+      "533.80 cm²",
+      "400.50 cm²"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "A large steel drainage pipe is a hollow cylinder that is completely open at both ends. It has an external diameter of 35 cm and a length of 100 cm. Calculate the exterior curved surface area of the pipe. Use the fraction ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π.",
+      "<br>The exterior surface area is ______ cm²."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "11000"
+    ]
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "A heavy construction tarmac roller consists of a solid iron cylinder. The iron drum has a diameter of 2.8 m and a length of 1.5 m. If the roller drives straight forward and completes exactly 50 full revolutions, how much area of the new road does it press flat? Use ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π."
+    ],
+    "options": [
+      "660 m²",
+      "330 m²",
+      "500 m²",
+      "1320 m²"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "A cylindrical observatory tower is standing upright on a stone courtyard. The tower needs to be coated with a weatherproof sealant. The workers will coat the curved vertical sides and the flat circular roof. They will NOT coat the bottom base because it is resting on the stone. The radius of the tower is 10 m and the height is 15 m. Using 3.14 for π, calculate the total coated area.",
+      "<br>The coated area is ______ m²."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "1256"
+    ]
+  },
+  {
+    "questionNo": 18,
+    "question": [
+      "A food company is manufacturing tin cans for diced tomatoes. Each completely closed can has a radius of 4 cm and a height of 10 cm. If the raw tin metal costs exactly $0.03 per square centimetre, what is the exact cost of the metal required to produce one single can? Use 3.14 for π and select the correct option."
+    ],
+    "options": [
+      "$10.55",
+      "$7.54",
+      "$12.45",
+      "$8.90"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 19,
+    "question": [
+      "A thick rubber hose (a hollow cylinder) has a length of 40 cm. Its outer diameter is 30 cm, and its inner hollow diameter is 20 cm. To protect the hose, a UV-resistant spray must be applied to EVERY exposed surface (the outside curve, the inside curve, and the two flat circular ring ends). Calculate the total surface area of the hose. Use 3.14 for π."
+    ],
+    "options": [
+      "6280 cm²",
+      "7065 cm²",
+      "7850 cm²",
+      "3140 cm²"
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/5.png"
+  },
+  {
+    "questionNo": 20,
+    "question": [
+      "A piece of cheese is cut into the shape of a 90° cylindrical wedge (a quarter-cylinder). The radius is 8 cm, and the height is 10 cm. Find the exact total surface area of this solid wedge. Leave your answer in terms of exact π.<br><img src = './assests/images/question/6.png' width = '30%' >",
+      "<br>(Hint: Remember that cutting a solid exposes new flat rectangular faces on the inside!)",
+      "<br>The exact total surface area is ______ π + ______ cm²."
+    ],
+    "input": [
+      "",
+      ""
+    ],
+    "answer": [
+      "72",
+      "160"
+    ]
+  },
+  {
+    "questionNo": 21,
+    "question": [
+      "A solid cylindrical sector of chocolate has an internal angle of 120°, a radius of 9 mm, and a height of 12 mm. Calculate the total surface area of this solid, using 3.14 for π."
+    ],
+    "options": [
+      "611.64 mm²",
+      "395.64 mm²",
+      "520.50 mm²",
+      "827.64 mm²"
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/7.png"
+  },
+  {
+    "questionNo": 22,
+    "question": [
+      "A solid wooden cylinder is sliced exactly in half straight down its middle to create two separate solid half-cylinders. A student claims that the total surface area of one of the new half-cylinders is exactly half the total surface area of the original whole cylinder. Why is this mathematical claim incorrect?"
+    ],
+    "options": [
+      "The volume halves, so the surface area must quadruple according to the square-cube law.",
+      "Cutting the cylinder reduces the curved surface but doubles the circular ends.",
+      "The new half-cylinder gains a large, flat rectangular face that was previously hidden inside the solid.",
+      "The radius is halved, which reduces the overall area exponentially."
+    ],
+    "answer": 2
+  }
+
+
+]
+
+
+    }
+  ]
+}
